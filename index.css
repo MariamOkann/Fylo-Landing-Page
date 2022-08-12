@@ -1,0 +1,110 @@
+.section2{
+    background-image: url('bg-curve-desktop.svg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+    padding-right:0;
+  }
+  .section3{
+    background-color: hsl(240, 75%, 98%);
+    border: none;
+  }
+  .section4{
+    background-color:  hsl(238, 22%, 44%);
+  }
+  .section5{
+    background-color: hsl(243, 87%, 12%);
+    padding: 100px;
+  }
+  .divcard{
+    background-color: rgb(255, 255, 255);
+    margin-right: 30%;
+  }
+  p{
+    color: hsl(243, 87%, 12%);
+  }
+  .input1{
+    width:55%;
+  }
+  h3{
+    color: white;
+  }
+  .button1{
+    width: 35%;
+  }
+  .p1{
+    font-size: 12px;
+  }
+  .p2{
+    font-size: 10px;
+    color: hsl(243, 87%, 12%);
+    list-style-type: none;
+  }
+  .p3{
+    color: white;
+  }
+  .image{
+       width: 40px;
+       height: 40px;
+  }
+  .sociallogos{
+    width:20px;
+    height: 20px;
+  }
+  @media only screen and (min-width: 320px) and (max-width: 425px) {
+    .logo{
+     height: fit-content;
+     width:100px;
+     object-fit:contain;
+     align-self: center !important;
+  }
+    .button1{
+      width: 80%;
+      margin: 15px ;
+    }
+    .button2{
+      width:90%;
+    }
+    .section2{
+      margin-top: 50px;
+    }
+    h1{
+      text-align: center;
+      margin-top: 50px;
+    }
+    h2{
+      text-align: center;
+    }
+    h3{
+       text-align: center;
+    }
+    .link{
+     margin:80px;
+    }
+    .p3{
+      text-align: center;
+    }
+    p{
+      text-align: center;
+    }
+    .divcard{
+      margin: auto;
+    }
+    .forms1{
+      text-align: center;
+    }
+    .input1{
+      width:80%;
+      margin: auto;
+    }
+    .forms{
+      margin-left: 10px;
+    }
+    .contact{
+      margin:20px 0;
+    }
+    .sociallinks{
+      text-align: center;
+    }
+  }
