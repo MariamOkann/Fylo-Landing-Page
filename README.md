@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here] https://mariamokann.github.io/Fylo-Landing-Page/
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:   https://www.frontendmentor.io/solutions/fylo-landing-page-using-bootstrap-IKpYEA79eW
+- Live Site URL:  https://mariamokann.github.io/Fylo-Landing-Page/
 
 ## My process
 
@@ -51,7 +51,7 @@ I learnt how to utilise bootstrap for layouts and easy website responsiveness.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website -  https://mariamokann.github.io/Fylo-Landing-Page/
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MariamOkann)
 - Twitter - [@yourusername](https://www.twitter.com/mariam_okan)
 
